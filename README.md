@@ -1,23 +1,23 @@
 # 📊 Student Performance Dashboard
 
-## 🚀 Overview
+##  Overview
 This project presents an interactive dashboard for analyzing student performance based on factors such as attendance, study time, tutoring, and parental support.
 
 The goal is to identify key drivers of academic success and provide a clear, data-driven understanding of student outcomes.
 
 ---
 
-## 🎯 Key Features
-- 🔍 Dynamic filtering (study time, tutoring, parental support)
-- 📈 GPA distribution analysis
-- ⚠️ Absence vs performance relationship (strong negative impact)
-- 👨‍👩‍👧 Parental support trend analysis
-- 🏆 Top and lowest performing students
-- 📊 Correlation analysis between key variables
+##  Key Features
+-  Dynamic filtering (study time, tutoring, parental support)
+-  GPA distribution analysis
+-  Absence vs performance relationship (strong negative impact)
+-  Parental support trend analysis
+-  Top and lowest performing students
+-  Correlation analysis between key variables
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - **Absences** have the strongest negative impact on GPA  
 - **Parental support** consistently improves student performance  
 - **Tutoring** provides moderate improvement  
@@ -25,7 +25,7 @@ The goal is to identify key drivers of academic success and provide a clear, dat
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Pandas** – data processing and analysis  
 - **Streamlit** – interactive dashboard UI  
 - **Matplotlib / Plotly** – data visualization  
@@ -33,7 +33,7 @@ The goal is to identify key drivers of academic success and provide a clear, dat
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 student-performance-dashboard/
 │
 ├── app/
