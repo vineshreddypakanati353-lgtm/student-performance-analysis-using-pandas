@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Student Performance Dashboard
 
 ## 🚀 Overview
@@ -34,3 +35,6 @@ The goal is to identify key drivers of academic success and provide a clear, dat
 ---
 
 ## 📁 Project Structure
+=======
+# student-performance-analysis-using-pandas
+>>>>>>> c93cf547984d1b2c1fd1e8e7cc554c0fa8165f17
